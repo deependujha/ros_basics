@@ -1,0 +1,7 @@
+[0.013s] Invoking command in '/home/deependu/ROS/ros_basics/build/my_package_1': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/deependu/ROS/ros_basics/build/my_package_1 -- -j8 -l8
+[0.046s] [35m[1mConsolidate compiler generated dependencies of target talker[0m
+[0.060s] [ 50%] [32mBuilding CXX object CMakeFiles/talker.dir/src/publisher_member_function.cpp.o[0m
+[1.164s] gmake[2]: *** [CMakeFiles/talker.dir/build.make:76: CMakeFiles/talker.dir/src/publisher_member_function.cpp.o] Interrupt
+[1.164s] gmake[1]: *** [CMakeFiles/Makefile2:137: CMakeFiles/talker.dir/all] Interrupt
+[1.164s] gmake: *** [Makefile:146: all] Interrupt
+[1.174s] Invoked command in '/home/deependu/ROS/ros_basics/build/my_package_1' returned '-2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/deependu/ROS/ros_basics/build/my_package_1 -- -j8 -l8

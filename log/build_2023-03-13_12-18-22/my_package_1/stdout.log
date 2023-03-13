@@ -1,0 +1,21 @@
+[ 50%] [32mBuilding CXX object CMakeFiles/talker.dir/src/publisher_member_function.cpp.o[0m
+[100%] [32m[1mLinking CXX executable talker[0m
+[100%] Built target talker
+-- Install configuration: ""
+-- Installing: /home/deependu/ROS/ros_basics/install/my_package_1/lib/my_package_1/talker
+-- Set runtime path of "/home/deependu/ROS/ros_basics/install/my_package_1/lib/my_package_1/talker" to ""
+-- Up-to-date: /home/deependu/ROS/ros_basics/install/my_package_1/share/ament_index/resource_index/package_run_dependencies/my_package_1
+-- Up-to-date: /home/deependu/ROS/ros_basics/install/my_package_1/share/ament_index/resource_index/parent_prefix_path/my_package_1
+-- Up-to-date: /home/deependu/ROS/ros_basics/install/my_package_1/share/my_package_1/environment/ament_prefix_path.sh
+-- Up-to-date: /home/deependu/ROS/ros_basics/install/my_package_1/share/my_package_1/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/deependu/ROS/ros_basics/install/my_package_1/share/my_package_1/environment/path.sh
+-- Up-to-date: /home/deependu/ROS/ros_basics/install/my_package_1/share/my_package_1/environment/path.dsv
+-- Up-to-date: /home/deependu/ROS/ros_basics/install/my_package_1/share/my_package_1/local_setup.bash
+-- Up-to-date: /home/deependu/ROS/ros_basics/install/my_package_1/share/my_package_1/local_setup.sh
+-- Up-to-date: /home/deependu/ROS/ros_basics/install/my_package_1/share/my_package_1/local_setup.zsh
+-- Up-to-date: /home/deependu/ROS/ros_basics/install/my_package_1/share/my_package_1/local_setup.dsv
+-- Installing: /home/deependu/ROS/ros_basics/install/my_package_1/share/my_package_1/package.dsv
+-- Up-to-date: /home/deependu/ROS/ros_basics/install/my_package_1/share/ament_index/resource_index/packages/my_package_1
+-- Up-to-date: /home/deependu/ROS/ros_basics/install/my_package_1/share/my_package_1/cmake/my_package_1Config.cmake
+-- Up-to-date: /home/deependu/ROS/ros_basics/install/my_package_1/share/my_package_1/cmake/my_package_1Config-version.cmake
+-- Up-to-date: /home/deependu/ROS/ros_basics/install/my_package_1/share/my_package_1/package.xml

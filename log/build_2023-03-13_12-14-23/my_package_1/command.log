@@ -1,0 +1,6 @@
+Invoking command in '/home/deependu/ROS/ros_basics/build/my_package_1': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/deependu/ROS/ros_basics/src/my_package_1 -DCMAKE_INSTALL_PREFIX=/home/deependu/ROS/ros_basics/install/my_package_1
+Invoked command in '/home/deependu/ROS/ros_basics/build/my_package_1' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/deependu/ROS/ros_basics/src/my_package_1 -DCMAKE_INSTALL_PREFIX=/home/deependu/ROS/ros_basics/install/my_package_1
+Invoking command in '/home/deependu/ROS/ros_basics/build/my_package_1': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/deependu/ROS/ros_basics/build/my_package_1 -- -j8 -l8
+Invoked command in '/home/deependu/ROS/ros_basics/build/my_package_1' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/deependu/ROS/ros_basics/build/my_package_1 -- -j8 -l8
+Invoking command in '/home/deependu/ROS/ros_basics/build/my_package_1': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/deependu/ROS/ros_basics/build/my_package_1
+Invoked command in '/home/deependu/ROS/ros_basics/build/my_package_1' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/deependu/ROS/ros_basics/build/my_package_1
